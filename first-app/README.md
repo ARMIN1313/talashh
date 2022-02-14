@@ -18,4 +18,4 @@ yarn create vite first-app --temlate vueرو مینویسیم
 yarnرو مینویسیم تا دانلود و نصب بشه
 MV frst-app first-app,yarn -ver
 yarn devزدیم و یک لینک به ما میده و میفهمیم همه چیز درسته
-
+yarn build میزنیم و بعد فعلا کارمون با گیت تموم میشه
