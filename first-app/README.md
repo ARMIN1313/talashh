@@ -14,3 +14,8 @@ mkdir projects میزنیم برای اینکه یک فولدر به نام proj
 cd projectsمینویسیم تا وارد فایل بشیم
 mkdir talash && cd talash مینویسیم تا فایل تلاش داخل پروجکتس درست بشه و قسمت دوم کد برای اینکه وارد فایل ساخته شده ی تلاش بشه
 clearنوشتیم تا خلوت بشه صفحمون
+yarn create vite first-app --temlate vueرو مینویسیم
+yarnرو مینویسیم تا دانلود و نصب بشه
+MV frst-app first-app,yarn -ver
+yarn devزدیم و یک لینک به ما میده و میفهمیم همه چیز درسته
+
