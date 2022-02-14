@@ -5,3 +5,4 @@
 برنامه ی ویژوال استودیو کد رو باز کردیم و در آن اکانت گیتهاب خودمون رو لاگین کردیم
 بعد گیت بش از گیت را باز کردیم و کد های زیر را وارد کردیم 
 corepack,npm -v,npm install -g @vue/cli
+npm install --global yarn,yarn --version
