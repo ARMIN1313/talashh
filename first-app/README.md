@@ -7,3 +7,4 @@
 corepack,npm -v,npm install -g @vue/cli
 npm install --global yarn,yarn --version
 node --version
+حالا کارمون با نصب و چک کردن برنامه ها تموم شد و ساخت فایل هایی که قرار است در آن ها کد بنویسیم رو شروع میکنیم
